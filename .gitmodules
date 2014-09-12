@@ -1,3 +1,6 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/literat/nix-sources.git
+[submodule "examples"]
+	path = examples
+	url = https://github.com/literat/nix-examples.git
