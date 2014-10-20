@@ -4,3 +4,6 @@
 [submodule "examples"]
 	path = examples
 	url = https://github.com/literat/nix-examples.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/literat/nix-doc.git
